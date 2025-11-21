@@ -1,5 +1,4 @@
 import ModelDisplay from "./components/ModelDisplay";
-import {app} from "../firebaseConfig/"
 export default function Home() {
   return (
     <main className="w-full min-h-screen flex flex-col items-center justify-start p-24 gap-8">
